@@ -1,0 +1,9 @@
+.\objects\adc.o: ..\src\adc.c
+.\objects\adc.o: ..\src\adc.h
+.\objects\adc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: ..\lib\MKL46Z\MKL46Z4.h
+.\objects\adc.o: ..\lib\CMSIS\Include\core_cm0plus.h
+.\objects\adc.o: ..\lib\CMSIS\Include\core_cmInstr.h
+.\objects\adc.o: ..\lib\CMSIS\Include\cmsis_armcc.h
+.\objects\adc.o: ..\lib\CMSIS\Include\core_cmFunc.h
+.\objects\adc.o: ..\lib\MKL46Z\system_MKL46Z4.h

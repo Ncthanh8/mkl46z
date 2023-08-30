@@ -1,0 +1,10 @@
+.\objects\switch.o: ..\src\Switch.c
+.\objects\switch.o: ..\src\Switch.h
+.\objects\switch.o: ..\src\Gpio.h
+.\objects\switch.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\switch.o: ..\lib\MKL46Z\MKL46Z4.h
+.\objects\switch.o: ..\lib\CMSIS\Include\core_cm0plus.h
+.\objects\switch.o: ..\lib\CMSIS\Include\core_cmInstr.h
+.\objects\switch.o: ..\lib\CMSIS\Include\cmsis_armcc.h
+.\objects\switch.o: ..\lib\CMSIS\Include\core_cmFunc.h
+.\objects\switch.o: ..\lib\MKL46Z\system_MKL46Z4.h
